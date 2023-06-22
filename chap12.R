@@ -288,7 +288,7 @@ summary(ecm)
  
 
 #######################################################################################################
-# If you have questions or suggestions regarding this script, write me: robson.tigre@unibo.it 
+# If you have questions or suggestions regarding this script, write me: robson.tigre0@gmail.com 
 # For an alternative replication structure of Chapter 12, check the companion: 
 # https://bookdown.org/ccolonescu/RPoE4/time-series-non-stationarity.html (Accessed on Nov 30 2017)
 #######################################################################################################

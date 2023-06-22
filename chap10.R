@@ -180,7 +180,7 @@ summary(second.stage2, diagnostics=TRUE)  #  p-value=0.5386 -> same conclusion a
 
 
 #######################################################################################################
-# If you have questions or suggestions regarding this script, write me: robson.tigre@unibo.it 
+# If you have questions or suggestions regarding this script, write me: robson.tigre0@gmail.com 
 # For an alternative replication structure of Chapter 10, check the companion: 
 # https://bookdown.org/ccolonescu/RPoE4/random-regressors.html (Accessed on Nov 15 2017)
 #######################################################################################################

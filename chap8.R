@@ -203,7 +203,7 @@ linearHypothesis(lm.food, c("income = 8"))
 linearHypothesis(lm.food, c("income = 8"), vcov. = var.HC)
 
 ##############################################################################################
-# If you have questions or suggestions regarding this script, write me: robson.tigre@unibo.it 
+# If you have questions or suggestions regarding this script, write me: robson.tigre0@gmail.com 
 # If you would like to the replicate Chapter 8 in its full extent, check the companion: 
 # https://bookdown.org/ccolonescu/RPoE4/heteroskedasticity.html (Accessed on Nov 07 2017)
 ###############################################################################################

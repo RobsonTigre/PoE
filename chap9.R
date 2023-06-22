@@ -340,7 +340,7 @@ plot.okunf.HW2 <- plot(okunf.HW2)
 
 
 #######################################################################################################
-# If you have questions or suggestions regarding this script, write me: robson.tigre@unibo.it 
+# If you have questions or suggestions regarding this script, write me: robson.tigre0@gmail.com 
 # For an alternative replication structure of Chapter 9, check the companion: 
 # https://bookdown.org/ccolonescu/RPoE4/time-series-stationary-variables.html (Accessed on Nov 13 2017)
 #######################################################################################################
